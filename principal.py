@@ -9,7 +9,7 @@ NmediaMovel = 7
 # Quantidade de amostra considerada para media
 quantAmostras = 2
 
-# funcoes
+# funcoes analitic
 
 #Calcula quantidade de picos
 def numPicos(df):
